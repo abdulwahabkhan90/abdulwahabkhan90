@@ -195,73 +195,6 @@ A Python-based digital signal processing project focused on audio enhancement.
 
 ---
 
-# ⚡ ESP32 Projects
-
-## 🚦 ESP32 Adaptive Traffic Signal Controller
-
-An ESP32-based traffic control system using sensors to detect traffic conditions and control traffic signals.
-
-**Technologies:**
-`ESP32` `C/C++` `IR Sensors` `Ultrasonic Sensors` `Arduino IDE`
-
-**Focus Areas:**
-
-* Traffic detection
-* Adaptive signal control
-* Sensor interfacing
-* Embedded programming
-* Control logic
-
----
-
-## ⚡ ESP32 Energy Monitoring System
-
-An ESP32-based system developed for monitoring electrical/energy-related parameters using sensors and embedded processing.
-
-**Technologies:**
-`ESP32` `Embedded C/C++` `Sensors` `IoT`
-
-**Focus Areas:**
-
-* Real-time monitoring
-* Sensor interfacing
-* Embedded systems
-* IoT concepts
-
----
-
-# 🔲 Digital System Design
-
-## 6×6 Dadda Multiplier
-
-Designed and simulated a **6×6 Dadda multiplier using Verilog HDL**.
-
-**Technologies:**
-`Verilog HDL` `RTL` `Digital Logic` `Testbench`
-
-**Focus Areas:**
-
-* Arithmetic hardware
-* RTL design
-* Digital circuit design
-* Hardware verification
-
----
-
-## 🗳️ ZYBO FSM Voting Machine
-
-An FSM-based digital voting machine concept implemented using **Verilog and the ZYBO development board**.
-
-**Technologies:**
-`Verilog` `ZYBO` `FSM` `Digital Logic`
-
-**Focus Areas:**
-
-* Finite State Machines
-* FPGA concepts
-* Digital system design
-* RTL logic
-
 ---
 
 # 🗄️ Database Projects
@@ -279,23 +212,6 @@ Designed a relational database system for:
 
 ---
 
-## 📝 Online Examination Database
-
-Database system for managing students, subjects, examination results, and grades.
-
-**Concepts:**
-`SQL` `Joins` `Views` `Foreign Keys` `Aggregate Functions` `Grade Calculation`
-
----
-
-## 📊 Supplier Performance SQL System
-
-SQL-based supplier and purchase analysis using:
-
-`LEFT JOIN` `AVG()` `GROUP BY` `HAVING` `ORDER BY`
-
----
-
 ## 📦 Product Information Database
 
 Relational database involving:
@@ -310,58 +226,6 @@ Relational database involving:
 
 **Technologies:**
 `SQL` `MySQL` `Database Design`
-
----
-
-## 👨‍🏫 PHP + MySQL Instructor Database
-
-A database-driven web application supporting:
-
-* Insert
-* Update
-* Delete
-* Display
-* Search
-* Form Validation
-
-**Technologies:**
-`PHP` `MySQL` `HTML` `CSS`
-
----
-
-# 📱 Mobile Application
-
-## Store Management System
-
-An Android application developed using **Kotlin and Android Studio**.
-
-**Technologies:**
-`Kotlin` `Android Studio`
-
-**Focus Areas:**
-
-* Application interface
-* User input
-* Application logic
-* Mobile development
-
----
-
-# 📚 C++ Project
-
-## Bookshop Management System
-
-A C++ management application developed using **linked lists and data structures**.
-
-**Technologies:**
-`C++` `Linked Lists` `Data Structures`
-
-**Focus Areas:**
-
-* Record management
-* Dynamic data structures
-* Menu-driven programming
-* Application logic
 
 ---
 
@@ -411,8 +275,6 @@ I've worked with a variety of embedded components and modules:
 
 # 📈 Currently
 
-I'm building my professional portfolio by documenting my **engineering projects, technical experiments, and learning journey** on GitHub.
-
 I'm interested in opportunities where I can apply my **Computer Engineering foundation**, contribute to real-world technical projects, and continue developing my skills in **embedded systems, networking, IoT, digital design, and software development**.
 
 ---
@@ -441,15 +303,6 @@ I'm interested in opportunities where I can apply my **Computer Engineering foun
 
 🚦 Traffic Light Controller
    Verilog + FSM + Digital Logic
-
-🔲 6×6 Dadda Multiplier
-   Verilog + RTL + Hardware Design
-
-🎧 Audio Signal Processing
-   Python + Noise Reduction + Echo Cancellation
-
-⚡ ESP32 Energy Monitoring
-   ESP32 + Sensors + Real-Time Monitoring
 
 🗄️ Database Systems
    SQL + MySQL + SQL Server + PHP
